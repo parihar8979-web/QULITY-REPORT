@@ -1,0 +1,6 @@
+{
+  "name": "Quality Reports - AQL Footwear QA System",
+  "description": "Clean, high-performance Quality Inspection and AQL reporting system for footwear manufacturing, featuring SAP PO catalog synchronization, size-run defect audit matrix, and inspector analytics for Puma and Skechers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
